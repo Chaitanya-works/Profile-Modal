@@ -56,8 +56,8 @@ a{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: var(--black);
-/*     background: url(../images/bg.png) no-repeat; */
+/*     background: var(--black); */
+    background: url(../images/bg.png);
     background-size: cover;
 /*     background: #03051A; */
 }
